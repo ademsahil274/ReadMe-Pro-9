@@ -47,10 +47,10 @@ function generateMarkdown(data) {
   - [Contributing](#Contributing)
 
   ## GitHub
-  ${data.github}
+  You can find more information (https://github.com/${data.github}/)
 
   ## Email
-  ${data.email}
+  If you need any help or question about the repo please email me at ${data.email}
 
   ## Title
   ${data.title}
