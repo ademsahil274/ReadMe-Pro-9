@@ -47,12 +47,7 @@ const questions = [
         name: "usage",
         message: "What does the user need to know about using the repo?"
     },
-    {
-        type: "input",
-        name: "contributing",
-        message: "What does the user need to know about contributing to the repo?"
-    },
-
+    
 ];
 
     async function runInit() {
@@ -67,17 +62,3 @@ const questions = [
     }
 
     runInit()
-
-// // TODO: Create a function to write README file
-// function writeToFile(fileName, data) {
-//     fs.writeToFile("ReadMe.md", generate())
-// }
-
-// // TODO: Create a function to initialize app
-// function init() {}
-
-// // Function call to initialize app
-// function init() {
-
-// }
-// init();

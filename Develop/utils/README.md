@@ -1,4 +1,4 @@
-# f
+# Generate Markdown
   
   ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
 
@@ -16,30 +16,27 @@
   - [Contributing](#Contributing)
 
   ## GitHub
-  You can find more information (https://github.com/dfgdfdfd/)
+  You can find more information (https://github.com/adem/)
 
   ## Email
-  If you need any help or question about the repo please email me at dfd
+  If you need any help or question about the repo please email me at adem@test.com
 
   ## Title
-  f
+  Generate Markdown
 
   ## Description
-  dfd
+  Generating readme automatically.
 
   ## License
   MIT
 
   ## Installation
-  df
+  node
 
   ## Test
-  df
+  node index.js
 
   ## Usage
-  df
-
-  ## Contributing
-  
+  nada
 
   

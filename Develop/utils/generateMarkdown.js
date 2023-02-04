@@ -70,9 +70,6 @@ function generateMarkdown(data) {
   ## Usage
   ${data.usage}
 
-  ## Contributing
-  ${data.contributing}
-
   `;
 }
 
